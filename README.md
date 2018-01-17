@@ -30,6 +30,9 @@ Worked in Virtual Box Ubuntu
 
 ## Side notes
 
+### sublime text3 cheat sheet
+https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
+
 ### sublime text jump out of quotes
 in Key Bindings - User
 "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
