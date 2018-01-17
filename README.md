@@ -18,5 +18,7 @@ Worked in Virtual Box Ubuntu
 
 \> second y = np.array(df[\'label\']) is not neccesary
 
+### tutorial 18
 
+\> for python 2 corrrect/total needs to be float(correct)/float(total), or else it will output 0, because it uses integer division.
 
