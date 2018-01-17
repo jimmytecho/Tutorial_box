@@ -30,7 +30,7 @@ Worked in Virtual Box Ubuntu
 
 ## Side notes
 
-## sublime text jump out of quotes
+### sublime text jump out of quotes
 in Key Bindings - User
 "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
 (https://stackoverflow.com/questions/14800608/sublime-text-2-move-cursor-out-of-parenthesis-quotes-or-brackets)
