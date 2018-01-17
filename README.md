@@ -22,3 +22,6 @@ Worked in Virtual Box Ubuntu
 
 \> for python 2 corrrect/total needs to be float(correct)/float(total), or else it will output 0, because it uses integer division.
 
+## supported vector machine
+
+\> for introductions to supported vector machine, better watch "Support Vector Machines: A Visual Explanation with Sample Python Code" (https://www.youtube.com/watch?v=N1vOgolbjSc) then "16. Learning: Support Vector Machines" (https://www.youtube.com/watch?v=_PwhiWxHK8o) for more mathematics details.
