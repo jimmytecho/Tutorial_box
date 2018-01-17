@@ -25,3 +25,17 @@ Worked in Virtual Box Ubuntu
 ## supported vector machine
 
 \> for introductions to supported vector machine, better watch "Support Vector Machines: A Visual Explanation with Sample Python Code" (https://www.youtube.com/watch?v=N1vOgolbjSc) then "16. Learning: Support Vector Machines" (https://www.youtube.com/watch?v=_PwhiWxHK8o) for more mathematics details.
+
+
+
+## Side notes
+
+## sublime text jump out of quotes
+in Key Bindings - User
+"keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
+(https://stackoverflow.com/questions/14800608/sublime-text-2-move-cursor-out-of-parenthesis-quotes-or-brackets)
+try later {
+https://gist.github.com/koulmomo/8396647
+https://gist.github.com/craiggists/2268146
+https://forum.sublimetext.com/t/shortcut-to-move-cursor-out-of-parenthesis-quotes-brackets/4330/3
+}
